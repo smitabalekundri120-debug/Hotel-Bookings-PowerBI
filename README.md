@@ -21,6 +21,7 @@ Provides an overview of:
 - Revenue analysis
 - Hotel performance insights
 
+## Hotel Dashboard
 ![Hotel Dashboard](Hotels_Dashboard.png)
 
 ---
