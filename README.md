@@ -1,37 +1,107 @@
 # Hotel Bookings Dashboard using Power BI
 
-This project focuses on analyzing hotel booking data using Power BI dashboards and visualizations to generate meaningful business insights for the hospitality industry.
+## 📌 Project Overview
+This project is an interactive **Hotel Bookings Dashboard** created using **Power BI** to analyze hotel booking data and generate meaningful business insights for the hospitality industry.
 
-## Project Objective
-The objective of this project is to analyze booking trends, customer behavior, hotel performance, and revenue insights using interactive Power BI dashboards.
+The dashboard helps in understanding:
+- Booking trends
+- Customer behavior
+- Revenue performance
+- Sales analysis
+- Hotel performance metrics
 
-## Tools & Technologies Used
-- Power BI
-- Data Visualization
-- Dashboarding
+---
 
-## Key Analysis Performed
-- Hotel booking trend analysis
+## 📊 Dashboards Included
+
+### 🏨 Hotel Dashboard
+Provides an overview of:
+- Total bookings
+- Booking status
 - Revenue analysis
-- Customer behavior insights
-- Hotel ratings analysis
-- Booking performance comparison
+- Hotel performance insights
 
-## Dashboard Features
-- Interactive Power BI dashboards
-- KPI cards and visual reports
-- Revenue and booking insights
-- Hotel performance tracking
-- Customer trend analysis
+![Hotel Dashboard](Hotels_Dashboard.png)
+
+---
+
+### 📅 Bookings Dashboard
+Displays:
+- Booking trends over time
+- Reservation patterns
+- Customer booking behavior
+- Cancellation insights
+
+![Bookings Dashboard](Bookings_Dashboard.png)
+
+---
+
+### 💰 Sales Dashboard
+Shows:
+- Revenue analysis
+- Sales performance
+- Profit-related insights
+- Business growth indicators
+
+![Sales Dashboard](Sales_Dashboard%20(1).png)
+
+---
+
+### 👥 Users Dashboard
+Analyzes:
+- User demographics
+- Customer distribution
+- User activity patterns
+
+![Users Dashboard](Users_Dashboard.png)
+
+---
+
+### 🔗 Data Model View
+Represents relationships between tables used in the Power BI project.
+
+![Model View](Model_View.png)
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Power BI
+- Data Cleaning
+- Data Visualization
+- DAX
+- Data Modeling
+
+---
+
+## 📂 Files in Repository
+
+| File Name | Description |
+|-----------|-------------|
+| `Hotel_Bookings_Report (1).pbix` | Main Power BI project file |
+| `Hotels_Dashboard.png` | Hotel dashboard screenshot |
+| `Bookings_Dashboard.png` | Bookings dashboard screenshot |
+| `Sales_Dashboard (1).png` | Sales dashboard screenshot |
+| `Users_Dashboard.png` | Users dashboard screenshot |
+| `Model_View.png` | Data model screenshot |
+
+---
+
+## 📈 Key Insights
+- Booking patterns and seasonal trends can be identified easily.
+- Revenue contribution from different booking categories is visualized.
+- Customer behavior and booking preferences are analyzed.
+- Dashboard enables quick business decision-making through interactive visuals.
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it using **Power BI Desktop**.
+3. Explore the interactive dashboards and insights.
 
 
-## Repository Contents
-- Power BI Dashboard File (.pbix)
-- Dashboard Screenshots
-- README Documentation
 
-## Project Outcome
-This project helped strengthen my skills in Power BI, dashboard development, and business insight generation using hospitality data.
+
 
 ## Author
 Smita Patil  
